@@ -1,10 +1,10 @@
-# Zinrelo
+# Hotwire
 
 All the required dependencies are mentioned in pom.xml
 
 reports/ folder will have the latest extent report
 
-download chromedriver.exe and mention the path location in zinrelo.properties file accordingly
+download chromedriver.exe and mention the path location in hotwire.properties file accordingly
 
 Eclipse IDE, JDK 1.8, Google Chrome, Apache Maven installed and configured is a prerequisite.
 
